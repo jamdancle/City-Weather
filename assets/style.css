@@ -1,0 +1,7 @@
+body, html {
+    height: 100%;
+    background-image: url("./weathercloudssky.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
